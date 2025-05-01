@@ -2,6 +2,30 @@
 This study explores the effects of sociodemographics, work/life balance, and experiences with working mothers on gendered expectations of work, specifically measuring how people in society use their own personal experiences which create these different beliefs surrounding this issue. 
 
 
+Data
+The data that is used in this section was gathered from the General Social Survey (GSS). Respondents are aged 18+ and selected through probability-based sampling, which ensures diversity within the sample and only focusing on the US Population alone. In 2022, the GSS total population that was studied was 4,159. In my dataset, the sample size was 2,588. The major discrepancies between the GSS total population and my total number of observations can primarily be explained by answer choices like “Inapplicable”, “No Answer”, “Skipped on Web” or “Cannot Choose” as a response to the survey. For instance, if a mother does not have children, they would not be able to answer if their mother worked during their childhood. Also, if people completely skipped this survey, their thoughts would obviously not be taken into the final analysis.
+
+Variables Used
+
+The data that is used in this section was gathered from the General Social Survey (GSS). My independent variable measures how many mothers worked when their child was growing up. My dependent variable measures how many people agree/disagree if men should work, and womentend home. Both samples were collected in 2022, through probability-based sampling ensuring diversity within the sample and only focusing on the US Population alone. The GSS total population that was studied was 4,159. In “my_dataset”, the sample size was 2,588. The major discrepancies between these two numbers are people not feeling strongly about either side or skipping this survey completely. 
+
+To get a sense of how people in society feel about gendered expectations in the workplace, I conceptualized this variable by measuring beliefs on if women should stay home and operationalized it by looking at respondents’ opinions on women working or tending to the home. Within this specific research study, my dependent variable and the question respondents were asked were: “It is much better for everyone involved if the man is the achiever outside the home and the woman takes care of the home and family?” They could then choose the following answers: Strongly Agree, Agree, Disagree or Strongly Disagree. I recoded these answers into agree and disagree to get more concise data. By researching the dependent variable, it gives an overall consensus in today’s world, what people’s gendered expectations of work look like. 
+
+By looking at the independent variable, this specifically researched how many mothers worked during their child’s younger years. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data on whether or not they had a working mother or stay-at-home mom. The specific question asked by GSS within the survey was: “Did your mother ever work for pay for as long as a year, while you were growing up?” Respondents could either respond with Yes or No to this question. 
+
+Another independent variable that was researched looked at respondents’ sex. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data on whether they were male or female. The GSS survey asked: “Respondents sex?”. Respondents could either respond with Male or Female to this question. 
+
+Another independent variable that was researched was educational attainment of mothers. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data on how high of an education mothers had. The GSS survey asked: “Respondents mothers' degree?”. Respondents could either respond with Less than high school, High school, Associates/junior college, Bachelor’s or Graduate to this question. I recoded and made new codes which were H.S degree or less, Associates and bachelor's or more. This would make the answers more concise. 
+
+Another independent variable that was researched was family income. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data on where families believe they fall compared to other American families for their income. The GSS survey asked: “Compared with American families in general, would you say your family income is far below average, below average, average, above average, or far above average?”. Respondents could either respond with far below average, below average, average, above average and far above average. I recoded and made new codes which were above average, average and below average. This would make the answers more concise. 
+
+Another independent variable that was researched was work/life balance. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data on how much respondent’s work interfered with their personal life. The GSS survey asked: “How often do the demands of your job interfere with your family life?”. Respondents could either respond often, sometimes, rarely or never. 
+
+Another independent variable that was researched was opinions on working mothers. I conceptualized this variable by examining the answers of the respondents and operationalized this variable by looking at the data where respondents thought that having a working mother would harm the child. The GSS survey asked: “A preschool child is likely to suffer if his or her mother works...”. Respondents could either respond with strongly agree, agree, disagree or strongly disagree. I recoded and made new codes which were agree-suffer or disagree-suffer. This would make the answers more concise. 
+
+
+
+
 ## Project:  SOC 302 Final Multivariate Project
 # Located:   Class Folder on ELSA
 # File Name: volk-gendered_expectations.R
