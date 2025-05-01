@@ -3,6 +3,7 @@ This study explores the effects of sociodemographics, work/life balance, and exp
 
 
 Data
+
 The data that is used in this section was gathered from the General Social Survey (GSS). Respondents are aged 18+ and selected through probability-based sampling, which ensures diversity within the sample and only focusing on the US Population alone. In 2022, the GSS total population that was studied was 4,159. In my dataset, the sample size was 2,588. The major discrepancies between the GSS total population and my total number of observations can primarily be explained by answer choices like “Inapplicable”, “No Answer”, “Skipped on Web” or “Cannot Choose” as a response to the survey. For instance, if a mother does not have children, they would not be able to answer if their mother worked during their childhood. Also, if people completely skipped this survey, their thoughts would obviously not be taken into the final analysis.
 
 Variables Used
