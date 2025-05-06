@@ -129,8 +129,8 @@ table(GSS$wkvsfam, GSS$sometimes)
 table(GSS$wkvsfam, GSS$rarely)
 table(GSS$wkvsfam, GSS$never)
 
-###########VARIABLE###############
-###########Gender norms###########
+##################################VARIABLE#############################
+###########agree that child would suffer with working mother###########
 
 #STEP 1: examine initial variable
 table(GSS$fepresch)
